@@ -124,25 +124,29 @@ const SHOP_DATA = [
         {
           id: 18,
           name: 'Black Jean Shearling',
-          imageUrl: 'https://i.ibb.co/XzcwL5s/black-shearling.png',
+          imageUrl: 'https://images.pexels.com/photos/10909387/pexels-photo-10909387.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+          // 'https://i.ibb.co/XzcwL5s/black-shearling.png',
           price: 125
         },
         {
           id: 19,
           name: 'Blue Jean Jacket',
-          imageUrl: 'https://i.ibb.co/mJS6vz0/blue-jean-jacket.png',
+          imageUrl: 'https://images.pexels.com/photos/9668455/pexels-photo-9668455.jpeg?auto=compress&cs=tinysrgb&w=1600',
+          // 'https://i.ibb.co/mJS6vz0/blue-jean-jacket.png',
           price: 90
         },
         {
           id: 20,
-          name: 'Grey Jean Jacket',
-          imageUrl: 'https://i.ibb.co/N71k1ML/grey-jean-jacket.png',
+          name: 'Grey Jacket',
+          imageUrl: 'https://images.pexels.com/photos/2866082/pexels-photo-2866082.jpeg?auto=compress&cs=tinysrgb&w=1600',
+          // 'https://i.ibb.co/N71k1ML/grey-jean-jacket.png',
           price: 90
         },
         {
           id: 21,
           name: 'Brown Shearling',
-          imageUrl: 'https://i.ibb.co/s96FpdP/brown-shearling.png',
+          imageUrl: 'https://images.pexels.com/photos/4348552/pexels-photo-4348552.jpeg?auto=compress&cs=tinysrgb&w=1600',
+          //'https://i.ibb.co/s96FpdP/brown-shearling.png',
           price: 165
         },
         {
